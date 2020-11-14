@@ -1,0 +1,252 @@
+﻿body
+{
+    background-color:Black;
+    width:100%;
+    text-align:center;
+    font-family:Arial;
+    font-size: 15px;
+    font-weight:Bold;
+}
+
+.top
+  {
+	background-image: url("https://image.freepik.com/free-vector/technology-geometric-technology-modern-concept-abstract-texture-background_29865-1506.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 350px;
+	position: static;
+	padding-top: 120px;
+	
+
+  }
+
+h1
+
+{
+      margin-top: 50px;
+      margin-bottom: 120px;
+      margin-right: 120px;
+      margin-left: 120px;
+     font-size: 6rem;
+    font-family: 'AR JULIAN', cursive;
+    color: GoldenRod;
+    text-shadow: 2px 2px DeepSkyBlue;    
+
+}
+
+h3
+{
+     margin-top: 0px;
+     font-size: 2rem;
+     font-family:'Copperplate Gothic Bold', cursive;
+     color:Brown;
+     text-align: center;
+ }
+
+h2
+{
+     font-size: 3rem;
+     font-family:'AR JULIAN', cursive;
+     color:White;
+     text-align: center;
+     text-shadow: 2px 2px Tomato;
+}
+ .Mid
+ {
+
+     width: 100%;
+     height: 300px;
+ }
+
+
+.MyFace
+  {
+    border-style:solid;
+    border-color:LightSlateGrey;
+    border-width:8px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:10px 5px 10px Lightgray;
+    }
+
+ .Me
+    {
+    width: 50%;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    font-family: 'Times New Roman', cursive;
+    color: gray;
+    }
+
+ p
+ {
+     line-height:1;
+     color:Teal;
+
+
+ }
+
+  hr
+ {
+    margin-top:200px;
+    border-color:gray;
+    border-width:5px;
+    border-style:none;
+    border-top-style:dotted;
+    width: 10%;
+ }
+
+
+
+  .Hobbies
+
+  {
+
+    
+    margin: 100px auto ;
+    width:100%;
+    height:800%;
+  }
+
+  .Sports
+  {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  }
+
+    .Wushu
+ {
+
+
+
+    margin:100px;
+    border-style:ridge;
+    border-color:LightSlateGrey;
+    border-width:8px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:10px 5px 10px 3px Silver;
+
+
+   }
+
+
+
+   .Vball
+ {
+
+    margin: 100px;
+    border-style:inset;
+    border-color:LightSlateGrey;
+    border-width:8px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:10px 10px 20px Silver;
+    position: relative;
+
+
+  }
+
+  .Wushu_p
+
+  {
+    font-family: 'Arial Narrow', cursive;
+    text-align: left;
+    color:SteelBlue;
+    text-align: justify;
+
+    line-height:1.5;
+
+  }
+
+
+
+.Vbal_p
+{
+   font-family: 'Arial Narrow', cursive;
+   text-align: left;
+   color:CornflowerBlue;
+   text-align: justify;
+	
+    line-height:1.5;
+}
+
+.Basket
+ {
+
+    margin: 100px;
+    border-style:inset;
+    border-color:LightSlateGrey;
+    border-width:8px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:10px 10px 20px Silver;
+    position: relative;
+  }
+
+  .Bball_p
+  {
+
+    line-height:1.5;
+   font-family: 'Arial Narrow', cursive;
+   text-align: left;
+   color:SteelBlue;
+   text-align: justify;
+  }
+
+.Bottom
+{
+    background-color:DarkSlateGrey;
+    margin-top: 100px;
+}
+
+.Contact_Me
+
+{
+
+   
+   font-family: 'Copperplate Gothic Bold', cursive;
+   
+   font-size:2rem;
+   
+   text-shadow: 2px 5px black;
+
+}
+.copyright
+{
+
+   font-family: 'Copperplate Gothic Bold', cursive;
+   text-align: Center;
+   font-size:15px;
+   color:Tomato;
+   text-shadow: 2px 2px black;
+}
+
+.Message
+{
+    color: DarkGoldenRod;
+    font-family: 'Times New Roman', sans-serif;
+    margin: 10px 20px;
+    margin-top: 10px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+.FB
+{
+    color: Blue;
+    font-family: 'Times New Roman', sans-serif;
+    margin: 10px 20px;
+    margin-top: 10px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
